@@ -1,4 +1,3 @@
-<!-- 🌌 HEADER BANNER -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=3EE6C5&center=true&vCenter=true&width=600&lines=RuzzGD;Full+Stack+Web+Developer;Vue+•+FastAPI+•+PostgreSQL" alt="Typing SVG Banner" />
 </p>
